@@ -1,3 +1,4 @@
+# DJITello library that allows connectivity to drone
 from djitellopy import Tello
 
 # Personal drone (variable) connected  to the Tello function
